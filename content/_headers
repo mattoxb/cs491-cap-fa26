@@ -1,0 +1,32 @@
+# Quartz strips the .html extension when copying static files into public/.
+# Cloudflare Pages then serves these extensionless files as
+# application/octet-stream, so <iframe> embeds render nothing (locally,
+# `quartz build --serve` sniffs the content and gets away with it).
+# Force text/html back on for the reveal.js slide decks.
+
+/assets/reveal/catalan
+  Content-Type: text/html; charset=utf-8
+
+/assets/reveal/combinatorics
+  Content-Type: text/html; charset=utf-8
+
+/assets/reveal/convex-hull
+  Content-Type: text/html; charset=utf-8
+
+/assets/reveal/course_intro
+  Content-Type: text/html; charset=utf-8
+
+/assets/reveal/gcd
+  Content-Type: text/html; charset=utf-8
+
+/assets/reveal/shapes
+  Content-Type: text/html; charset=utf-8
+
+/assets/reveal/assets/convex-hull
+  Content-Type: text/html; charset=utf-8
+
+/assets/reveal/d3-fig/*
+  Content-Type: text/html; charset=utf-8
+
+/assets/reveal/plugin/notes/speaker-view
+  Content-Type: text/html; charset=utf-8

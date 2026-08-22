@@ -1,51 +1,52 @@
 ---
 title: Lecture Schedule
 ---
-| Week | Date              | Lecture                                                  |
-|------|-------------------|----------------------------------------------------------|
-| 1    | January 21, 2026  | [[Course Introduction]]                                  |
-|      | January 23, 2026  | [[IO]]                                                   |
-| 2    | January 26, 2026  | [[Disjoint Sets]]                                        |
-|      | January 28, 2026  | [[Divide and Conquer]]                                   |
-|      | January 30, 2026  | [[Complete Search]]                                      |
-| 3    | February 2, 2026  | Coding Session                                           |
-|      | February 4, 2026  | [[Single Source Shortest Path]]                          |
-|      | February 6, 2026  | [[Floyd-Warshall]]                                       |
-| 4    | February 9, 2026  | Coding Session                                           |
-|      | February 11, 2026 | [[Trees]]                                                |
-|      | February 13, 2026 | [[Strongly Connected Components]]                        |
-| 5    | February 16, 2026 | Special Topic                                            |
-|      | February 18, 2026 | [[Kruskal's Algorithm]]                                  |
-|      | February 20, 2026 | [[Bit Manipulation]]                                     |
-| 6    | February 23, 2026 | Special Topic                                            |
-|      | February 25, 2026 | [[Sqrt Decomposition]]                                   |
-|      | February 27, 2026 | [[Segment Trees]]                                        |
-| 7    | March 2, 2026     | Special Topic                                            |
-|      | March 4, 2026     | [[Lazy Segment Trees]] - In-class Fun Contest            |
-|      | March 6, 2026     | [[Fenwick Trees]]                                        |
-| 8    | March 9, 2026     | [[Greedy Algorithms]]                                    |
-|      | March 11, 2026    | [[Dynamic Programming]]                                  |
-|      | March 13, 2026    | Special Topic                                            |
-| 9    | March 16, 2026    | Spring Break                                             |
-|      | March 18, 2026    | Spring Break                                             |
-|      | March 20, 2026    | Spring Break                                             |
-| 9    | March 23, 2026    | Coding Session                                           |
-|      | March 25, 2026    | [[Longest Common Sequence]]                              |
-|      | March 27, 2026    | [[DP Palindromes]]                                       |
-| 10   | March 30, 2026    | Coding Session                                           |
-|      | April 1, 2026     | [[DP Edit Distance]]                                     | 
-|      | April 3, 2026     | [[DP Knapsack]]                                          |
-| 11   | April 6, 2026     | Coding Session                                           |
-|      | April 8, 2026     | [[Tree DP]]                                              | 
-|      | April 10, 2026    | [[Knuth Morris Pratt]]                                   |
-| 12   | April 13, 2026    | Coding Session                                           |
-|      | April 15, 2026    | [[Rabin Karp]]                                           |
-|      | April 17, 2026    | [[Primes and GCD]]                                       |
-| 13   | April 20, 2026    | Coding Session                                           |
-|      | April 22, 2026    | [[Fermat's Little Theorem and Euler's Totient Function]] |
-|      | April 24, 2026    | [[Combinatorics]]                                        |
-| 14   | April 27, 2026    | Coding Session                                           |
-|      | April 29, 2026    | [[Points, Lines, Vectors, Shapes]]                       |
-|      | May 1, 2026       | [[Geometry: Convex Hull]]                                |
-| 15   | May 4, 2026       | Coding Session                                           |
-|      | May 6, 2026       | [[Line Sweep]]
+| Week | Date               | Lecture                                                  |
+|------|--------------------|----------------------------------------------------------|
+| 1    | August 24, 2026    | [[Course Introduction]]                                  |
+|      | August 26, 2026    | [[IO]]                                                   |
+|      | August 28, 2026    | [[Disjoint Sets]]                                        |
+| 2    | August 31, 2026    | [[Divide and Conquer]]                                   |
+|      | September 2, 2026  | [[Complete Search]]                                      |
+|      | September 4, 2026  | In-Class Contest                                         |
+| 3    | September 7, 2026  | Labor Day -- No Class                                    |
+|      | September 9, 2026  | [[Single Source Shortest Path]]                          |
+|      | September 11, 2026 | [[Floyd-Warshall]]                                       |
+| 4    | September 14, 2026 | [[Trees]]                                                |
+|      | September 16, 2026 | [[Strongly Connected Components]]                        |
+|      | September 18, 2026 | In-classs Contest                                        |
+| 5    | September 21, 2026 | [[Kruskal's Algorithm]]                                  |
+|      | September 23, 2026 | [[Bit Manipulation]]                                     |
+|      | September 25, 2026 | In-class Contest                                         |
+| 6    | September 28, 2026 | [[Sqrt Decomposition]]                                   |
+|      | September 30, 2026 | [[Segment Trees]]                                        |
+|      | October 2, 2026    | In-class Contest                                         |
+| 7    | October 5, 2026    | [[Lazy Segment Trees]]                                   |
+|      | October 7, 2026    | [[Fenwick Trees]]                                        |
+|      | October 9, 2026    | In-class Contest                                         |
+| 8    | October 12, 2026   | [[Greedy Algorithms]]                                    |
+|      | October 14, 2026   | [[Dynamic Programming]]                                  |
+|      | October 16, 2026   | In-class Contest                                         |
+| 9    | October 19, 2026   | [[Longest Common Sequence]]                              |
+|      | October 21, 2026   | [[DP Palindromes]]                                       |
+|      | October 23, 2026   | In-class Contest                                         |
+| 10   | October 26, 2026   | [[DP Edit Distance]]                                     |
+|      | October 28, 2026   | [[DP Knapsack]]                                          |
+|      | October 30, 2026   | In-class Contest                                         |
+| 11   | November 2, 2026   | [[Tree DP]]                                              |
+|      | November 4, 2026   | [[Knuth Morris Pratt]]                                   |
+|      | November 6, 2026   | In-class Contest                                         |
+| 12   | November 9, 2026   | [[Rabin Karp]]                                           |
+|      | November 11, 2026  | [[Primes and GCD]]                                       |
+|      | November 13, 2026  | In-class Contest                                         |
+|      | November 16, 2026  | Fall Break                                               |
+|      | November 18, 2026  | Fall Break                                               |
+|      | November 20, 2026  | Fall Break                                               |
+| 13   | November 23, 2026  | [[Fermat's Little Theorem and Euler's Totient Function]] |
+|      | November 25, 2026  | [[Combinatorics]]                                        |
+|      | November 27, 2026  | In-class Contest                                         |
+| 14   | November 30, 2026  | [[Points, Lines, Vectors, Shapes]]                       |
+|      | December 2, 2026   | [[Geometry: Convex Hull]]                                |
+|      | December 4, 2026   | In-class Contest                                         |
+| 15   | December 7, 2026   | [[Line Sweep]]                                           |
+|      | December 9, 2026   | Final Contest                                            |

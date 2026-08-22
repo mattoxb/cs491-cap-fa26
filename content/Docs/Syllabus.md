@@ -49,7 +49,7 @@ You may be excused from class if you let me know beforehand that you will be abs
 
 We will calculate the percentage of the problems you solve from the problem sets we post on code-forces.  The problems vary in difficulty from very easy to world-finals level, but each problem has the same weight.  To pass the class you must solve 70% of the available problems, or 100 problems, whichever is lower.
 
-We do not give extensions for the problems.
+Most problems will have a two week deadline, and there is an extension period of one week where you can get 80% of the points.
 
 ### Improper Optimization
 
@@ -70,6 +70,7 @@ By the way, have you considered making a fire safety plan with your family or ro
 ## Family Educational Rights and Privacy Act (FERPA)
 
 Any student who has suppressed their directory information pursuant to family educational rights and privacy act (FERPA) should self-identify to the instructor to ensure protection of the privacy of their attendance in this course. see the [FERPA](http://registrar.illinois.edu/ferpa) site for more information.
+
 ## Mental Health
 
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University's resources provided below.  Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.

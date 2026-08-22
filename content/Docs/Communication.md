@@ -1,15 +1,17 @@
-One of the more difficult things needed to run a class of hundreds of students is managing communication.  Fortunately it's easy to manage if we use the technology efficiently.  There are three primary ways of communicating with course staff:
+One of the more difficult things needed to run a class of hundreds of students is managing communication.
+It doesn't look like we will have the hundreds-of-students problem in this course, but good communication still helps.
+There are three primary ways of communicating with course staff:
 - Office hours
 - Discord
 - Email
 
 ## Office Hours
 
-Office hours are held after class and on Monday during the class session.  (Most Mondays are set aside for coding practice and to work together solving the problems.)
+Office hours are held after class and on Friday during the class session.  (Most Fridays are set aside for coding practice and to work together solving the problems.)
 
 ## Discord
 
-You are probably familiar with it. Please set up an account [here](https://discord.com/), if you dont already have one. Discord is a messaging platform. You may communicate with course staff/classmates here, and are encouraged to ask questions!
+You are probably familiar with it. Please set up an account [here](https://discord.com/), if you don't already have one. Discord is a messaging platform. You may communicate with course staff/classmates here, and are encouraged to ask questions!
 
 <!-- ## CampusWire
 

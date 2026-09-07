@@ -2,8 +2,8 @@
 
 -   Course Title: Introduction to Competitive Programming
 -   Rubric: CS 491 CAP
--   Dates: January 20th 2026 to May 6th, 2026
--   Time: 02:00PM - 02:50PM 
+-   Dates: August 24th 2026 to December 9th 2026
+-   Time: 03:00PM - 03:50PM 
 -   Location: 2310 Everitt Laboratory
 -   Instructor: Mattox Beckman
 -   Recommended Textbooks:
@@ -35,27 +35,35 @@ Once in a while will also release a larger set of problems that require a variet
 
 **This course is a Credit/No Credit course.**
 
-There are two components to your grade: attendance and solving problems.
+There are two components to your grade: attendance and solving problems. To pass the course, you will need at least a 70% on both Attendance grade and Problems grade.
 
 ### Attendance
 
 Attendance is required, and will be taken.  Part of the process of learning competitive programming is helping each other understand the problems and the algorithms that solve them.  Some of the lecture topics involve how to compete as a team, and you will practice this during some of the class periods.
 
-You must have attended (or have been excused from) 70% of the available lectures to pass this class.  If there are no group programming exercises (and you have poor time management skills) you may leave the class after the mini-lecture. If you are more than 5 minutes late we reserve the right to not count your attendance for that day.
+You must have attended (or have been excused from) 70% of the available lectures to pass this class. Any optional lectures will be annouced on Discord, and will either be an extra office hour or a special topic. If you are more than 5 minutes late we reserve the right to not count your attendance for that day.
 
 You may be excused from class if you let me know beforehand that you will be absent.  Use email for that.
 
 ### Solving Problems
 
-We will calculate the percentage of the problems you solve from the problem sets we post on code-forces.  The problems vary in difficulty from very easy to world-finals level, but each problem has the same weight.  To pass the class you must solve 70% of the available problems, or 100 problems, whichever is lower.
+There are 3 types of problems in this course, pre-lectures (PLEC), lectures (LEC), and homework (HW). 
 
-Most problems will have a two week deadline, and there is an extension period of one week where you can get 80% of the points.
+Pre-lectures (PLEC) are released at least 3 days before deadline, ideally on the previous Friday. The PLEC will have straightforward, conceptual questions and/or template problems related to the corresponding lecture's topic. You are encouraged to watch the corresponding video alongside doing the PLEC questions, however it's not required. PLECs are due before the lecture at 3:00PM. 
 
-### Improper Optimization
+Lectures (LEC) are released at the start of lecture 3:00PM. The LEC will contain 1-2 programming problems. In lecture, you will be encouraged to work with your other classmates. The answer to the LEC programming problem will be given out at the end of lecture, and will be due EOD (11:59PM). 
 
-Every semester, somebody fails this course because they tried to do precisely the amount of work necessary and not one bit more to get the points they need to pass this class... and are off by one.  Don't be that student.  You will **not** be given a chance to make anything up once the course is over.
+Homeworks (HW) are released at the start of lecture 3:00PM. HW will consist of 5-6 programming problems of easy to hard difficulty, covering topics from the week. Only 4 problems will count for full credit, any additional problems completed before the deadline will count as extra credit. The HW is not in order of difficulty, and all problems are weighted the same, the motivation behind this is to improve your problem solving intuition! 
 
-"A forseeable outcome of planning to barely pass the class is to barely fail the class." --- Lucas Anderson
+| Assignment      | Frequency (per week) | Weight | Estimated Time Per Week | Due                   | When Posted         |
+|-----------------|----------------------|--------|-------------------------|-----------------------|---------------------|
+| Pre-class (PRE) | 1-3                  | 10%    | 1hr                     | Before Lecture        | Week Before Class   |
+| In-class (LEC)  | 1-3                  | 30%    | 3hr                     | EOD of Lecture        | Before Class        |
+| Homework        | 1                    | 60%    | 4-6hr                   | Before Monday Lecture | Monday Before Class |
+
+Any extra credit (there will be extra credit) within the course will be added as HW credit.
+
+Note you will need above a 70% in this category to pass the course. 
 
 ## Other Things 
 

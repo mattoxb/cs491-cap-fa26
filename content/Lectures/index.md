@@ -39,12 +39,12 @@ title: Lecture Schedule
 | 12   | November 9, 2026   | [[Rabin Karp]]                                           |
 |      | November 11, 2026  | [[Primes and GCD]]                                       |
 |      | November 13, 2026  | In-class Contest                                         |
-|      | November 16, 2026  | Fall Break                                               |
-|      | November 18, 2026  | Fall Break                                               |
-|      | November 20, 2026  | Fall Break                                               |
-| 13   | November 23, 2026  | [[Fermat's Little Theorem and Euler's Totient Function]] |
-|      | November 25, 2026  | [[Combinatorics]]                                        |
-|      | November 27, 2026  | In-class Contest                                         |
+| 13   | November 16, 2026  | [[Fermat's Little Theorem and Euler's Totient Function]] |
+|      | November 18, 2026  | [[Combinatorics]]                                        |
+|      | November 20, 2026  | In-class Contest                                         |
+|      | November 23, 2026  | Fall Break                                               |
+|      | November 25, 2026  | Fall Break                                               |
+|      | November 27, 2026  | Fall Break                                               |
 | 14   | November 30, 2026  | [[Points, Lines, Vectors, Shapes]]                       |
 |      | December 2, 2026   | [[Geometry: Convex Hull]]                                |
 |      | December 4, 2026   | In-class Contest                                         |

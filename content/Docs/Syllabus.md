@@ -10,7 +10,7 @@
     -   [Competitive Programming 4](https://cpbook.org)
     -   [Guide to Competitive Programming](https://link.springer.com/book/10.1007/978-3-319-72547-5)
 -   Prerequisites: CS 225.  We will use C++ for our content, but you are welcome to use a different language.
--   Office Hours: Every Monday during usual class time/location. 
+-   Office Hours: After class Wednesday and Friday
 
 ## Purpose
 
